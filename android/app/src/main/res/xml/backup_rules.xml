@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- License storage uses Context.noBackupFilesDir and Android Keystore.
+     Accounting databases remain eligible for the user's OS backup policy. -->
+<full-backup-content>
+    <exclude domain="root" path="no_backup/"/>
+    <exclude domain="device_root" path="no_backup/"/>
+</full-backup-content>
